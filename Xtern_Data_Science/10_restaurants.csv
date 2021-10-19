@@ -1,0 +1,11 @@
+﻿,name,price_level,rating,types,user_ratings_total,vicinity,Latitude,Longitude,bayes_avg,Type
+1,Vida,3,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",644,"601 E New York St, Indianapolis",39.7709009,-86.1470547,4.698505521,restaurants
+2,Kuma's Corner,2,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2790,"1127 Prospect St, Indianapolis",39.75218,-86.13878,4.679532465,restaurants
+3,Harry & Izzy's,4,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",2625,"153 Illinois St, Indianapolis",39.7645564,-86.1596447,4.678428914,restaurants
+4,Subito,1,4.9,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",242,"34 N Delaware St, Indianapolis",39.767987,-86.154676,4.673993479,restaurants
+5,Livery,2,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1490,"720 N College Ave, Indianapolis",39.7766517,-86.1454802,4.665712029,restaurants
+6,Bluebeard,3,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1366,"653 Virginia Ave, Indianapolis",39.7575325,-86.1457864,4.663351608,restaurants
+7,Tlaolli,1,4.8,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",291,"2830 E Washington St, Indianapolis",39.768599,-86.1154727,4.649173264,restaurants
+8,Tinker Street Restaurant,3,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",702,"402 E 16th St, Indianapolis",39.7885624,-86.1506626,4.641953909,restaurants
+9,10th Street Diner,2,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",439,"3301 E 10th St, Indianapolis",39.7811297,-86.109609,4.624491945,restaurants
+10,Axum Ethiopian Restaurant,2,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",413,"825 N Pennsylvania St, Indianapolis",39.7786645,-86.155585,4.622177522,restaurants

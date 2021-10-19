@@ -1,0 +1,61 @@
+,name,price_level,rating,types,user_ratings_total,vicinity,Latitude,Longitude,bayes_avg
+1,Vida,3,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",644,"601 E New York St, Indianapolis",39.7709009,-86.1470547,4.698505521
+2,Kuma's Corner,2,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2790,"1127 Prospect St, Indianapolis",39.75218,-86.13878,4.679532465
+3,Harry & Izzy's,4,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",2625,"153 Illinois St, Indianapolis",39.7645564,-86.1596447,4.678428914
+4,Subito,1,4.9,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",242,"34 N Delaware St, Indianapolis",39.767987,-86.154676,4.673993479
+5,Livery,2,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1490,"720 N College Ave, Indianapolis",39.7766517,-86.1454802,4.665712029
+6,Bluebeard,3,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1366,"653 Virginia Ave, Indianapolis",39.7575325,-86.1457864,4.663351608
+7,Tlaolli,1,4.8,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",291,"2830 E Washington St, Indianapolis",39.768599,-86.1154727,4.649173264
+8,Tinker Street Restaurant,3,4.7,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",702,"402 E 16th St, Indianapolis",39.7885624,-86.1506626,4.641953909
+9,10th Street Diner,2,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",439,"3301 E 10th St, Indianapolis",39.7811297,-86.109609,4.624491945
+10,Axum Ethiopian Restaurant,2,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",413,"825 N Pennsylvania St, Indianapolis",39.7786645,-86.155585,4.622177522
+11,Nesso,,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",219,"339 Delaware St, Indianapolis",39.7617446,-86.1544149,4.599101388
+12,Maialina Italian Kitchen + Bar,,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",203,"1103 Prospect St, Indianapolis",39.7522109,-86.1395712,4.596572007
+13,Fogo de Chão Brazilian Steakhouse,3,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",4873,"117 E Washington St, Indianapolis",39.7667906,-86.1556927,4.595763591
+14,BRU Burger Bar,2,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",4148,"410 Massachusetts Ave, Indianapolis",39.773332,-86.1521353,4.595093456
+15,The Oakmont,,4.8,"['restaurant', 'food', 'point_of_interest', 'establishment']",94,"323 N Delaware St Suite B, Indianapolis",39.7721472,-86.1537536,4.593031806
+16,Eat To Live Cafe,1,4.7,"['restaurant', 'food', 'point_of_interest', 'establishment']",165,"2248 E 38th St B, Indianapolis",39.8255644,-86.1240896,4.590024295
+17,Dawson's On Main,2,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",1401,"1464 N Main St, Speedway",39.7861302,-86.2412613,4.587753347
+18,Iozzo's Garden of Italy,2,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1228,"946 S Meridian St, Indianapolis",39.754235,-86.159448,4.586479533
+19,Iaria's Italian Restaurant,2,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",1133,"317 S College Ave, Indianapolis",39.7618718,-86.1455905,4.585660503
+20,Mimi Blue Restaurants,2,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",1054,"870 Massachusetts Ave, Indianapolis",39.7794334,-86.1429271,4.584899838
+21,Ruth's Chris Steak House,4,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",969,"45 S Illinois St, Indianapolis",39.7662717,-86.1595353,4.583985817
+22,Lincoln Square Pancake House - Irvington,2,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",941,"5648 E Washington St, Indianapolis",39.771042,-86.0704875,4.583660006
+23,First Watch,2,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",891,"143 N Illinois St, Indianapolis",39.76942,-86.159615,4.583043984
+24,Greek Islands,2,4.6,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']",866,"906 S Meridian St, Indianapolis",39.7552108,-86.1594982,4.58271822
+25,The Capital Grille,4,4.6,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",820,"40 W Washington St, Indianapolis",39.7674064,-86.159195,4.58208491
+26,Hinata Japanese Fine Dining,,4.9,"['restaurant', 'food', 'point_of_interest', 'establishment']",46,"130 E Washington St, Indianapolis",39.7671818,-86.1551276,4.581947186
+27,Slapfish,2,4.6,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",317,"345 Massachusetts Ave, Indianapolis",39.7718021,-86.153038,4.570105794
+28,LouVino Indianapolis Mass Ave Restaurant & Wine Bar,,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",262,"530 Massachusetts Ave #140, Indianapolis",39.7747367,-86.1497465,4.567747699
+29,Courses Restaurant,,4.6,"['restaurant', 'food', 'point_of_interest', 'establishment']",38,"2820 N Meridian St, Indianapolis",39.8073397,-86.1572446,4.552481951
+30,Ember Urban Eatery,2,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",424,"435 Virginia Ave, Indianapolis",39.7603619,-86.1489485,4.524483076
+31,Iron Skillet Restaurant,2,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",470,"2489 W 30th St #2268, Indianapolis",39.8096352,-86.20074,4.523238976
+32,Thai Paradise,,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",506,"137 W Market St, Indianapolis",39.7684194,-86.1612361,4.522350155
+33,The Garden Table,2,4.5,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment']",661,"342 Massachusetts Ave #100, Indianapolis",39.7721028,-86.1533444,4.519190042
+34,Pearl Street Pizzeria & Pub,2,4.5,"['meal_delivery', 'meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",832,"65 E Pearl St, Indianapolis",39.7662494,-86.1568261,4.516600579
+35,Ralston's,2,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",954,"635 Massachusetts Ave, Indianapolis",39.7758333,-86.1475,4.515142763
+36,The Oceanaire Seafood Room,3,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",975,"30 S Meridian St, Indianapolis",39.7660688,-86.1583121,4.514917272
+37,Conner’s Kitchen + Bar,2,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1046,"350 W Maryland St, Indianapolis",39.7659644,-86.1645815,4.51420225
+38,Charlie Browns Pancake & Steak House,1,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",1268,"1038 N Main St, Indianapolis",39.7813547,-86.2411624,4.512351142
+39,Bosphorus Istanbul Cafe,2,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",1271,"935 S East St, Indianapolis",39.7545579,-86.149301,4.512329426
+40,Café Patachou,2,4.5,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",1795,"225 W Washington St, Indianapolis",39.7669396,-86.1619453,4.509432612
+41,Bakersfield,2,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2141,"334 Massachusetts Ave, Indianapolis",39.7719812,-86.1535945,4.508165777
+42,Lincoln Square Pancake House,1,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",2327,"2330 N Meridian St, Indianapolis",39.7998881,-86.1572598,4.507615923
+43,The Rathskeller,2,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2685,"401 E Michigan St, Indianapolis",39.7737737,-86.1503028,4.506742115
+44,Steer-In,1,4.5,"['restaurant', 'food', 'point_of_interest', 'establishment']",2703,"5130 E 10th St, Indianapolis",39.7818101,-86.0823971,4.506703444
+45,The Eagle,2,4.5,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",3193,"310 Massachusetts Ave, Indianapolis",39.7718129,-86.1539722,4.505798135
+46,Big City Grill & Lemonade,1,4.4,"['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",380,"23 E 38th St, Indianapolis",39.824597,-86.155928,4.479192988
+47,Spoke & Steele,2,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",385,"123 Illinois St, Indianapolis",39.7650904,-86.1597897,4.478710251
+48,Festiva,2,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",387,"1217 E 16th St, Indianapolis",39.7883643,-86.1376399,4.4785188
+49,Fresco Italian Cafe on the Canal,2,4.4,"['meal_takeaway', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",478,"340 W Michigan St, Indianapolis",39.7748762,-86.1648448,4.470694863
+50,Pure Eatery,2,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",596,"1043 Virginia Ave, Indianapolis",39.7526154,-86.1406281,4.462605657
+51,The Eagle's Nest,,4.4,"['restaurant', 'food', 'point_of_interest', 'establishment']",635,"1 S Capitol Ave, Indianapolis",39.7666943,-86.161151,4.460324301
+52,Mesh,3,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1150,"725 Massachusetts Ave, Indianapolis",39.7767191,-86.1461999,4.440726752
+53,Milktooth,2,4.4,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']",1502,"534 Virginia Ave, Indianapolis",39.759125,-86.1465649,4.433326666
+54,Nada,2,4.4,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",1952,"11 W Maryland St, Indianapolis",39.7654668,-86.1586887,4.427044542
+55,Yard House,2,4.4,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2326,"15 W Maryland St, Indianapolis",39.7653282,-86.1591399,4.42338147
+56,The Old Spaghetti Factory,2,4.4,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2772,"210 S Meridian St, Indianapolis",39.7640113,-86.1584167,4.420130044
+57,Giordano's,2,4.3,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",1417,"43 N Illinois St, Indianapolis",39.7682108,-86.1596606,4.358354479
+58,Tavern On South,2,4.2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",755,"423 W South St, Indianapolis",39.7614944,-86.1663528,4.327378352
+59,McCormick & Schmick's Seafood & Steaks,3,4.2,"['restaurant', 'meal_takeaway', 'bar', 'food', 'point_of_interest', 'establishment']",809,"110 N Illinois St, Indianapolis",39.7687066,-86.1602721,4.321850177
+60,Weber Grill Restaurant,2,4.2,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",2307,"10 N Illinois St, Indianapolis",39.7676051,-86.1600653,4.255287477
