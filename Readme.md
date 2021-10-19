@@ -6,7 +6,7 @@ Python 3.9
 
 ## Analysis and 10 days activity:
 
-In the same file called: DS xtern activity plan and analysis
+In the same file called: DS_xtern_activity_plan_and_analysis.pdf
 
 ### Tableau dashboard link:
 
